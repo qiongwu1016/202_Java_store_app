@@ -1,0 +1,3 @@
+Please correct quantities.
+MISC CAP:6   Request:10
+item:Blanket   quantity:10
